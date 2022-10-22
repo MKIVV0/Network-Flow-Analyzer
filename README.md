@@ -12,6 +12,8 @@ A statistical analysis follows, so that a data model containing the occurrencies
 Other activities will rely on the model, such as defining constraints (e.g: limiting streaming activities to 10 GB), or forecasting attacks.   
 The project is a long-term one, so it'll gradually evolve.   
 
+Please note: the project has been thought for natively linux-based systems.  
+
 # Programming language
 The chosen programming language is C++ for the following reasons:   
 - memory management: the application will handle hundreds to thounsands packets at once, therefore the memory better be handled manually, in order to avoid performance issues or memory problems such as memory leaks;
