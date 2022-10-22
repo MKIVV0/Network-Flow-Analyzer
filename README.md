@@ -7,8 +7,8 @@ https://www.uninsubria.it/ugov/degreecourse/175326
 
 # Project description
 This project consists in an application that analyzes network traffic, by taking raw packets and categorizing them (e.g: video streaming, messaging, etc.).   
-The analysis starts by sniffing the traffic on a network. Each information will be stored in a centralized database, where each column indicates what user produced what kind of information at a given time.                      
-A statistical analysis follows, so that a data model containing the occurrencies of the various traffic types can produced.   
+The analysis starts by sniffing the traffic on a network. Each information will be stored in a centralized database, where each block of information indicates what user produced what kind of information at a given time.                      
+A statistical analysis follows, so that a data model containing the occurrencies of the various traffic types is produced.   
 Other activities will rely on the model, such as defining constraints (e.g: limiting streaming activities to 10 GB), or forecasting attacks.   
 The project is a long-term one, so it'll gradually evolve.   
 
