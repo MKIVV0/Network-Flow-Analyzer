@@ -2,9 +2,8 @@
 This project will be carried out under the supervision of my professor Mirko Puliafito, lecturer of the networking course I'm currently following in university, and 
 also the founder and the CEO of Digitiamo SRL.
 
-https://en.digitiamo.com/
+https://en.digitiamo.com/                   
 https://www.uninsubria.it/ugov/degreecourse/175326           
-
 
 # Project description
 This project consists in an application that analyzes network traffic, by taking raw packets and categorizing them (e.g: video streaming, messaging, etc.).
